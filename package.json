@@ -1,0 +1,22 @@
+{
+  "name": "electron-music-player",
+  "version": "1.0.0",
+  "description": "electron-music-player",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "music-player"
+  ],
+  "author": "songzeng",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
